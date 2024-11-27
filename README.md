@@ -27,7 +27,7 @@
 
 ## Начало работы
 
-1. **Скачайте** исполняемый файл [Search.IFCs.exe](https://github.com/AniCatPro/Search-IFCs/releases/download/main-dev/Search.IFCs.v1.5.exe). 
+1. **Скачайте** исполняемый файл [Search.IFC.exe](https://github.com/AniCatPro/Search-IFC/releases/download/main/Search-IFC.exe). 
 2. **Запустите программу** и выберите папку для мониторинга.
 3. Укажите путь для сохранения новой базы данных.
 4. Нажмите кнопку "Начать мониторинг".
